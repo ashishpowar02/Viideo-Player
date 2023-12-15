@@ -22,5 +22,5 @@
 # [DEMO](https://viideoplayer-server1.000webhostapp.com/)
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]([https://choosealicense.com/licenses/mit](https://github.com/samyak2403/Viideo-Player/blob/main/LICENSE)https://github.com/samyak2403/Viideo-Player/blob/main/LICENSE/)
 
