@@ -1,0 +1,253 @@
+﻿1
+00:00:00,000 --> 00:00:03,000
+<font color="#ff8080">Firelight Team : firelight.blog.ir
+Instagram: fire._.light.sub</font>
+
+2
+00:00:03,008 --> 00:00:06,008
+<font color="#ff8080">BLACKPINK : blackpink.blog.ir
+Instagram: fire._.light.sub</font>
+
+3
+00:00:06,016 --> 00:00:09,016
+<font color="#ff8080">ENGLISH SUB by ●•▪Sajedeh▪•●
+Instagram: fire._.light.sub</font>
+
+4
+00:00:09,400 --> 00:00:11,620
+<font color="#8080ff">Endless night</font>
+
+5
+00:00:11,620 --> 00:00:15,820
+<font color="#8080ff">Love trapped us in a windowless room</font>
+
+6
+00:00:17,120 --> 00:00:19,180
+<font color="#8080ff">What can we say</font>
+
+7
+00:00:19,180 --> 00:00:23,160
+<font color="#8080ff">Long for love even though it hurts every time</font>
+
+8
+00:00:25,040 --> 00:00:27,080
+<font color="#8080ff">Get hurt and break down I</font>
+
+9
+00:00:27,080 --> 00:00:28,880
+<font color="#8080ff">don’t know what’s keeping me to hold on</font>
+
+10
+00:00:28,880 --> 00:00:32,740
+<font color="#8080ff">If I leave anyway, I’ll hate you in my pained state</font>
+
+11
+00:00:32,740 --> 00:00:36,160
+<font color="#8080ff">We can’t end it before it’s over</font>
+
+12
+00:00:36,160 --> 00:00:39,540
+<font color="#8080ff">It’s as if we’ve been waiting for this agony</font>
+
+13
+00:00:39,540 --> 00:00:42,720
+<font color="#80ff80">Maybe it’s all just for a moment</font>
+
+14
+00:00:42,720 --> 00:00:46,880
+<font color="#80ff80">What are we looking for so aimlessly</font>
+
+15
+00:00:46,880 --> 00:00:50,260
+<font color="#ff80ff">But I don’t care I’ll do it over and over</font>
+
+16
+00:00:50,260 --> 00:00:53,520
+<font color="#ff80ff">I just need you in my life</font>
+
+17
+00:00:54,420 --> 00:00:57,260
+<font color="#ff00ff">We are the lovesick girls</font>
+
+18
+00:00:57,260 --> 00:01:01,940
+<font color="#ff00ff">You can’t just end this love on your own</font>
+
+19
+00:01:01,940 --> 00:01:04,980
+<font color="#ff00ff">We are the lovesick girls</font>
+
+20
+00:01:04,980 --> 00:01:08,840
+<font color="#ff00ff">I’m nothing without this pain</font>
+
+21
+00:01:09,460 --> 00:01:13,080
+<font color="#ff00ff">But we were born to be alone</font>
+
+22
+00:01:13,080 --> 00:01:20,740
+<font color="#ff00ff">Yeah we were born to be alone</font>
+
+23
+00:01:20,740 --> 00:01:24,000
+<font color="#ff00ff">But why we still looking for love</font>
+
+24
+00:01:25,180 --> 00:01:26,880
+<font color="#ff8000">No love letters, no x and o’s</font>
+
+25
+00:01:26,880 --> 00:01:28,640
+<font color="#ff8000">No love never, my exes know</font>
+
+26
+00:01:28,640 --> 00:01:30,440
+<font color="#ff8000">No diamond rings, that set in stone</font>
+
+27
+00:01:30,440 --> 00:01:31,900
+<font color="#ff8000">To the left, better left alone</font>
+
+28
+00:01:31,900 --> 00:01:34,400
+<font color="#00ffff">Didn’t wanna be a princess, I’m priceless</font>
+
+29
+00:01:34,400 --> 00:01:36,420
+<font color="#00ffff">A prince not even on my list</font>
+
+30
+00:01:36,420 --> 00:01:37,900
+<font color="#00ffff">Love is a drug that I quit</font>
+
+31
+00:01:37,900 --> 00:01:39,540
+<font color="#00ffff">No doctor could help when I’m lovesick</font>
+
+32
+00:01:39,540 --> 00:01:42,760
+<font color="#ff80ff">Maybe it’s all just for a moment</font>
+
+33
+00:01:42,760 --> 00:01:46,800
+<font color="#ff80ff">What are we looking for so aimlessly</font>
+
+34
+00:01:46,800 --> 00:01:50,300
+<font color="#c0c0c0">Looking at you with my anxious gaze</font>
+
+35
+00:01:50,300 --> 00:01:54,480
+<font color="#c0c0c0">You’re all I need even if it hurts</font>
+
+36
+00:01:54,480 --> 00:01:57,360
+<font color="#00ff80">We are the lovesick girls</font>
+
+37
+00:01:57,360 --> 00:02:01,940
+<font color="#00ff80">You can’t just end this love on your own</font>
+
+38
+00:02:01,940 --> 00:02:04,500
+<font color="#00ff80">We are the lovesick girls</font>
+
+39
+00:02:04,500 --> 00:02:08,160
+<font color="#00ff80">I’m nothing without this pain</font>
+
+40
+00:02:09,520 --> 00:02:13,240
+<font color="#00ff80">But we were born to be alone</font>
+
+41
+00:02:13,240 --> 00:02:20,740
+<font color="#00ff80">Yeah we were born to be alone</font>
+
+42
+00:02:20,740 --> 00:02:23,860
+<font color="#00ff80">But why we still looking for love</font>
+
+43
+00:02:25,640 --> 00:02:27,340
+<font color="#ff80ff">Love is slippin’ and fallin’</font>
+
+44
+00:02:27,340 --> 00:02:29,280
+<font color="#ff80ff">Love is killin’ your darlin’</font>
+
+45
+00:02:29,280 --> 00:02:33,100
+<font color="#ff80ff">That fearless thrill returns once the pain subsides</font>
+
+46
+00:02:33,100 --> 00:02:34,900
+<font color="#80ffff">Can’t hear what you say</font>
+
+47
+00:02:34,900 --> 00:02:36,880
+<font color="#80ffff">I’m happy with this pain</font>
+
+48
+00:02:36,880 --> 00:02:39,700
+<font color="#80ffff">You pity me, but I pity you more for pitying me</font>
+
+49
+00:02:39,700 --> 00:02:42,220
+<font color="#ff8040">We are the lovesick girls</font>
+
+50
+00:02:42,220 --> 00:02:46,100
+<font color="#ff8040">You can’t just end this love on your own</font>
+
+51
+00:02:46,980 --> 00:02:49,800
+<font color="#ff8040">We are the lovesick girls</font>
+
+52
+00:02:49,800 --> 00:02:53,700
+<font color="#ff8040">I’m nothing without this pain</font>
+
+53
+00:02:55,300 --> 00:02:56,360
+<font color="#ff8040">Lovesick girls</font>
+
+54
+00:02:56,840 --> 00:02:58,920
+<font color="#ff8080">Everyone eventually leaves</font>
+
+55
+00:02:58,920 --> 00:03:00,760
+<font color="#ff8040">Lovesick girls</font>
+
+56
+00:03:00,760 --> 00:03:02,840
+<font color="#ff8080">I’ve become numb to crying</font>
+
+57
+00:03:02,840 --> 00:03:04,420
+<font color="#ff8040">Lovesick girls</font>
+
+58
+00:03:04,420 --> 00:03:06,480
+<font color="#ff8080">Hurt over and over again</font>
+
+59
+00:03:06,480 --> 00:03:08,020
+<font color="#ff8040">Lovesick girls</font>
+
+60
+00:03:08,020 --> 00:03:11,500
+<font color="#ff8080">But we’re still looking for love</font>
+
+61
+00:03:11,512 --> 00:03:14,567
+<font color="#ff80ff">FIRELIGHT: firelight.blog.ir
+BLACKPINK : blackpink.blog.ir</font>
+
+62
+00:03:14,568 --> 00:03:18,568
+<font color="#ff80ff">ENGLISH SUB by ●•▪Sajedeh▪•●
+Instagram: fire._.light.sub</font>
+
